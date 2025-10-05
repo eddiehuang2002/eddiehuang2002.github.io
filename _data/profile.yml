@@ -53,9 +53,9 @@ experience:
    position: Research Assistant
    date: Oct. 2024 - Jul. 2025
 
-awards:
-- name: National Scholarship (Top 1 in the major by overall evaluation)
-  date: 2024
+# awards:
+#- name: National Scholarship (Top 1 in the major by overall evaluation)
+#  date: 2024
 #- name: Award Name 1 
 #  date: 2021
 #- name: A quick brown fox jumps over the lazy dog and runs away award
