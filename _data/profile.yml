@@ -4,7 +4,7 @@ navbar_name: "Yihan Huang"
 
 positions:
 - logo: /assets/images/badges/Cornell.png  # Logo is optional
-  name: School of Electrical and Computer Engineering, Cornell University with logo
+  name: School of Electrical and Computer Engineering, Cornell University
 # - name: Position 2 without logo
 
 
@@ -36,26 +36,30 @@ portrait_caption: >-
 
 education:
 - name: Cornell University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/Cornell.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
+    School Electrical and Computer Engineering <br/>
+    MEng in Electrical and Computer Engineering
+  date: Aug. 2025 - present
+- name: University of Northumbria at Newcastle
+  logo: /assets/images/badges/Northumbria.png
+  position: BEng in Electrical and Electronic Engineering with First Class Honours
+  date: Sep. 2024 - Jul. 2025
 - name: Nanjing Normal University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  logo: /assets/images/badges/Nanjing_Normal.png
+  position: BEng in Electrical Engineering and Automation
+  date: Sep. 2021 - Jul. 2025
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+ experience:
+ - name: Durham University
+   logo: /assets/images/badges/Durham.png
+   position: Research Assistant
+   date: Oct. 2024 - Jul. 2025
 
 awards:
-- name: Award Name 2
+- name: National Scholarship (top 1 in the major by overall evaluation)
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+#- name: Award Name 1 
+#  date: 2021
+#- name: A quick brown fox jumps over the lazy dog and runs away award
+#  date: 2021
