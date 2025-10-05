@@ -24,7 +24,9 @@ short_bio: >-
   <p>
     Yihan Huang is a MEng student in Electrical and Computer Engineering at Cornell University. 
     His research interests include Data-driven Energy Scheduling and Decarbonisation, Distributed Energy Resources, Physics-Informed Machine Learning. 
-    Intended to apply for PhD positions in the 26 Fall or 27 Spring application cycle.
+  </p>
+  <p>
+      Intended to apply for PhD positions in the 26 Fall or 27 Spring application cycle.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -38,8 +40,7 @@ education:
   date: Aug. 2025 - present
 - name: University of Northumbria at Newcastle
   logo: /assets/images/badges/Northumbria.png
-  position: BEng in Electrical and Electronic Engineering with 
-  grade: First Class Honours
+  position: BEng in Electrical and Electronic Engineering with First Class Honours
   date: Sep. 2024 - Jul. 2025
 - name: Nanjing Normal University
   logo: /assets/images/badges/Nanjing_Normal.png
@@ -53,7 +54,7 @@ experience:
    date: Oct. 2024 - Jul. 2025
 
 awards:
-- name: National Scholarship (top 1 in the major by overall evaluation)
+- name: National Scholarship (Top 1 in the major by overall evaluation)
   date: 2024
 #- name: Award Name 1 
 #  date: 2021
