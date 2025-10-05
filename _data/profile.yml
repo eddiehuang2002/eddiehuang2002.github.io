@@ -34,9 +34,7 @@ portrait_caption: >-
 education:
 - name: Cornell University
   logo: /assets/images/badges/Cornell.png
-  position: >- 
-#    School Electrical and Computer Engineering <br/>
-    MEng in Electrical and Computer Engineering
+  position: MEng in Electrical and Computer Engineering
   date: Aug. 2025 - present
 - name: University of Northumbria at Newcastle
   logo: /assets/images/badges/Northumbria.png
