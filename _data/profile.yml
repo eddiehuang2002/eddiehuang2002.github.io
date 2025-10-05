@@ -38,19 +38,19 @@ education:
   logo: /assets/images/badges/Cornell.png
   position: MEng in Electrical and Computer Engineering
   date: Aug. 2025 - present
-- name: University of Northumbria at Newcastle
+- name: University of Northumbria at Newcastle  
   logo: /assets/images/badges/Northumbria.png
-  position: BEng in Electrical and Electronic Engineering with First Class Honours
+  position: BEng in Electrical and Electronic Engineering with First Class Honours (Advisor Prof. Jing Jiang, Prof. Zhiwei Gao)
   date: Sep. 2024 - Jul. 2025
 - name: Nanjing Normal University
   logo: /assets/images/badges/Nanjing_Normal.png
-  position: BEng in Electrical Engineering and Automation
+  position: BEng in Electrical Engineering and Automation (Advisors Prof. Fei Xie, Prof. Jun Chen)
   date: Sep. 2021 - Jul. 2025
 
 experience:
  - name: Durham University
    logo: /assets/images/badges/Durham.png
-   position: Research Assistant
+   position: Research Assistant (Advisor Prof. Hongjian Sun)
    date: Oct. 2024 - Jul. 2025
 
 # awards:
