@@ -35,12 +35,13 @@ education:
 - name: Cornell University
   logo: /assets/images/badges/Cornell.png
   position: >- 
-    School Electrical and Computer Engineering <br/>
+#    School Electrical and Computer Engineering <br/>
     MEng in Electrical and Computer Engineering
   date: Aug. 2025 - present
 - name: University of Northumbria at Newcastle
   logo: /assets/images/badges/Northumbria.png
-  position: BEng in Electrical and Electronic Engineering with First Class Honours
+  position: BEng in Electrical and Electronic Engineering with 
+  grade: First Class Honours
   date: Sep. 2024 - Jul. 2025
 - name: Nanjing Normal University
   logo: /assets/images/badges/Nanjing_Normal.png
