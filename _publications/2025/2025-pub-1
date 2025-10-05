@@ -3,9 +3,9 @@ title:          "PIUL-DERs: Physics-Informed Pseudo-Labeling Unsupervised Learni
 date:           2025-10-30 00:01:00 +0800
 selected:       true
 pub:            "Applied Energy"
-# pub_pre:        "Submitted to "
-pub_post:       'Minor Revisions.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_pre:        "Submitted to "
+pub_post:       'Minor Revisions'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
 # semantic_scholar_id: 388eb9dcc993d985e4ace92ae2b4e3589b2af6ca  # use this to retrieve citation count
 abstract: >-
