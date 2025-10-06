@@ -48,6 +48,10 @@ education:
   date: Sep. 2021 - Jul. 2025
 
 experience:
+ - name: Cornell University
+   logo: /assets/images/badges/Cornell.png
+   position: Graduate Researcher (Advisor Prof. Eilyan Bitar)
+   date: Sep. 2025 - Present
  - name: Durham University
    logo: /assets/images/badges/Durham.png
    position: Research Assistant (Advisor Prof. Hongjian Sun)
