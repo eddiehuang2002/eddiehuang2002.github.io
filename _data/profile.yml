@@ -26,7 +26,7 @@ short_bio: >-
     His research interests include Data-driven Energy Scheduling and Decarbonisation, ESS Arbitrage, Electricity Price Prediction, Distributed Energy Resources, and Physics-Informed Machine Learning.
   </p>
   <p>
-      Intended to apply for PhD positions in the 26 Fall or 27 Spring application cycle.
+      Intended to apply for PhD positions in the 26 Fall application cycle.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -36,15 +36,17 @@ portrait_caption: >-
 education:
 - name: Cornell University
   logo: /assets/images/badges/Cornell.png
-  position: MEng in Electrical and Computer Engineering (Advisor Prof. Eilyan Bitar)
+  position: Master of Engineering in Electrical and Computer Engineering (Advisor Prof. Eilyan Bitar)
   date: Aug. 2025 - present
 - name: University of Northumbria at Newcastle  
   logo: /assets/images/badges/Northumbria.png
-  position: BEng in Electrical and Electronic Engineering with First Class Honours (Advisor Prof. Jing Jiang, Prof. Zhiwei Gao)
+  position: Bachelor of Engineering in Electrical and Electronic Engineering with First Class Honours (Advisor Prof. Jing Jiang, Prof. Zhiwei Gao)
+  gpa: 3.9/4.0 (top 1%)
   date: Sep. 2024 - Jul. 2025
 - name: Nanjing Normal University
   logo: /assets/images/badges/Nanjing_Normal.png
-  position: BEng in Electrical Engineering and Automation (Advisor Prof. Fei Xie, Prof. Jun Chen)
+  position: Bachelor of Engineering in Electrical Engineering and Automation (Advisor Prof. Fei Xie, Prof. Jun Chen)
+  gpa: 3.72/4.0 (top 5%)
   date: Sep. 2021 - Jul. 2025
 
 experience:
