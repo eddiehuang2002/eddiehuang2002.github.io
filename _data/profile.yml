@@ -40,11 +40,11 @@ education:
   date: Aug. 2025 - present
 - name: University of Northumbria at Newcastle  
   logo: /assets/images/badges/Northumbria.png
-  position: Bachelor of Engineering in Electrical and Electronic Engineering with First Class Honours (GPA: 3.9/4.0, top 1%) (Advisor Prof. Jing Jiang, Prof. Zhiwei Gao)
+  position: "Bachelor of Engineering in Electrical and Electronic Engineering with First Class Honours (GPA: 3.9/4.0, top 1%) (Advisor Prof. Jing Jiang, Prof. Zhiwei Gao)"
   date: Sep. 2024 - Jul. 2025
 - name: Nanjing Normal University
   logo: /assets/images/badges/Nanjing_Normal.png
-  position: Bachelor of Engineering in Electrical Engineering and Automation (GPA: 3.72/4.0, top 5%) (Advisor Prof. Fei Xie, Prof. Jun Chen)
+  position: "Bachelor of Engineering in Electrical Engineering and Automation (GPA: 3.72/4.0, top 5%) (Advisor Prof. Fei Xie, Prof. Jun Chen)"
   date: Sep. 2021 - Jul. 2025
 
 experience:
