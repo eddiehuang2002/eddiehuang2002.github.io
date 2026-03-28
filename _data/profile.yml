@@ -22,8 +22,8 @@ orcid: 0009-0005-5136-8416
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Yihan Huang is a MEng student in Electrical and Computer Engineering at Cornell University. 
-    His research interests include Physics-Informed Machine Learning, Data-driven Energy Scheduling and Decarbonisation, Energy Storage Arbitrage, Electricity Price Prediction, and Distributed Energy Resources.
+    Yihan Huang is a MEng student in Electrical and Computer Engineering at Cornell University, where I was advised by Prof Eilyan Bitar.
+    His research interests include Decision-Focused ML, Physics-Informed ML, Data-driven Energy Decarbonisation, Energy Storage Arbitrage, and Distributed Energy Resources.
   </p>
   <p>
       Intended to apply for PhD positions in the 26 Fall application cycle. (Visa Status: F-1 Valid to April 2030)
@@ -36,29 +36,30 @@ portrait_caption: >-
 education:
 - name: Cornell University
   logo: /assets/images/badges/Cornell.png
-  position: "Master of Engineering in Electrical and Computer Engineering (GPA: 4.0) (Advisor Prof. Eilyan Bitar)"
-  date: Aug. 2025 - present
+  position: "MEng in Electrical and Computer Engineering (Advisor Prof. Eilyan Bitar)"
+  date: Aug. 2025 - May. 2026
 - name: University of Northumbria at Newcastle  
   logo: /assets/images/badges/Northumbria.png
-  position: "Bachelor of Engineering in Electrical and Electronic Engineering with First Class Honours (GPA: 3.9/4.0, top 1%) (Advisor Prof. Jing Jiang, Prof. Zhiwei Gao)"
+  position: "BEng in Electrical and Electronic Engineering with First Class Honours (Advisor Prof. Jing Jiang)"
   date: Sep. 2024 - Jul. 2025
 - name: Nanjing Normal University
   logo: /assets/images/badges/Nanjing_Normal.png
-  position: "Bachelor of Engineering in Electrical Engineering and Automation (GPA: 3.72/4.0, top 5%) (Advisor Prof. Fei Xie, Prof. Jun Chen)"
+  position: "BEng in Electrical Engineering and Automation (Advisor Prof. Fei Xie)"
   date: Sep. 2021 - Jul. 2025
 
 experience:
  - name: Cornell University
    logo: /assets/images/badges/Cornell.png
-   position: Graduate Researcher (Advisor Prof. Eilyan Bitar)
-   date: Sep. 2025 - Present
+   position: Graduate Researcher 
+   date: Sep. 2025 - May. 2026
  - name: Durham University
    logo: /assets/images/badges/Durham.png
-   position: Research Assistant (Advisor Prof. Hongjian Sun)
+   position: Research Assistant
    date: Oct. 2024 - Jul. 2025
 
-# awards:
-#- name: National Scholarship (Top 1 in the major by overall evaluation)
+ awards:
+- name: National Scholarship (Top 1%)
+- name: NARI Scholarship (Top 3%)
 #  date: 2024
 #- name: Award Name 1 
 #  date: 2021
