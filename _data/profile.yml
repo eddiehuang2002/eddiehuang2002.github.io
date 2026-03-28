@@ -57,9 +57,9 @@ experience:
    position: Research Assistant
    date: Oct. 2024 - Jul. 2025
 
- awards:
-- name: National Scholarship (Top 1%)
-- name: NARI Scholarship (Top 3%)
+# awards:
+#- name: National Scholarship (Top 1%)
+#- name: NARI Scholarship (Top 3%)
 #  date: 2024
 #- name: Award Name 1 
 #  date: 2021
