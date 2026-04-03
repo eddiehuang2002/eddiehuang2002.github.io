@@ -36,15 +36,15 @@ portrait_caption: >-
 education:
 - name: Cornell University
   logo: /assets/images/badges/Cornell.png
-  position: "Master of Engineering in Electrical and Computer Engineering (Advisor Prof. Eilyan Bitar)"
+  position: "MEng in Electrical and Computer Engineering"
   date: Aug. 2025 - May. 2026
 - name: University of Northumbria at Newcastle  
   logo: /assets/images/badges/Northumbria.png
-  position: "Bachelor of Engineering in Electrical and Electronic Engineering with First Class Honours (Advisor Prof. Jing Jiang)"
+  position: "BEng in Electrical and Electronic Engineering with First Class Honours"
   date: Sep. 2024 - Jul. 2025
 - name: Nanjing Normal University
   logo: /assets/images/badges/Nanjing_Normal.png
-  position: "Bachelor of Engineering in Electrical Engineering and Automation (Advisor Prof. Fei Xie)"
+  position: "BEng in Electrical Engineering and Automation"
   date: Sep. 2021 - Jul. 2025
 
 experience:
