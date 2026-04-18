@@ -49,15 +49,15 @@ education:
   position: "BEng in Electrical Engineering and Automation"
   date: Sep. 2021 - Jun. 2025
 
-experience:
- - name: Cornell University
-   logo: /assets/images/badges/Cornell.png
-   position: Graduate Researcher 
-   date: Sep. 2025 - May. 2026
- - name: Durham University
-   logo: /assets/images/badges/Durham.png
-   position: Research Assistant
-   date: Oct. 2024 - Jul. 2025
+# experience:
+#  - name: Cornell University
+#    logo: /assets/images/badges/Cornell.png
+#    position: Graduate Researcher 
+#    date: Sep. 2025 - May. 2026
+#  - name: Durham University
+#    logo: /assets/images/badges/Durham.png
+#    position: Research Assistant
+#    date: Oct. 2024 - Jul. 2025
 
 # awards:
 #- name: National Scholarship (Top 1%)
