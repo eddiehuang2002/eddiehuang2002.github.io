@@ -34,6 +34,10 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
+- name: Arizona State University
+  logo: /assets/images/badges/ASU.png
+  position: "PhD in Electrical Engineering"
+  date: Aug. 2025 - May. 2026
 - name: Cornell University
   logo: /assets/images/badges/Cornell.png
   position: "MEng in Electrical and Computer Engineering"
