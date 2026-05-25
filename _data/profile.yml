@@ -3,6 +3,8 @@ secondary_name: ""
 navbar_name: "Yihan Huang"
 
 positions:
+- logo: /assets/images/badges/ASU.png  # Logo is optional
+  name: School of Electrical, Computer and Energy Engineering, Arizona State University
 - logo: /assets/images/badges/Cornell.png  # Logo is optional
   name: School of Electrical and Computer Engineering, Cornell University
 # - name: Position 2 without logo
@@ -22,8 +24,8 @@ orcid: 0009-0005-5136-8416
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a master student in ECE at Cornell University, where I was advised by Prof Eilyan Bitar.
-    My research interests include Decision-Focused ML, Physics-Informed ML, Data-driven Energy Decarbonisation, Energy Storage Arbitrage, and Distributed Energy Resources. 
+    I am a PhD student in EE at Arizona State University advised by Prof Yang Weng. I received my master degree in ECE from Cornell University, where I was advised by Prof Eilyan Bitar.
+    My research interests include Foundation Model, Decision-Focused ML, Physics-Informed ML, Data-driven Energy Decarbonisation, and Distributed Energy Resources. 
     I received the National Scholarship and serve as reviewer for <i>Applied Energy</i>, <i>IEEE Transactions on Industrial Informatics</i>, and <i>Complex & intelligent systems</i>.
   </p>
 
